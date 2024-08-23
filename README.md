@@ -1,2 +1,2 @@
 # joaopedro
-Estudante de Cybersecurity
+Estudante de Front-End
